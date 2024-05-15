@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://rupeshmalpani03:0rKp4sIf3EltCM1J@linkedin.apllx68.mongodb.net/?retryWrites=true&w=majority&appName=linkedIn",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"Ov23limMOpBNOjJDQIfi",
+    "githubSecret":"5c3c68f0146937fdf7c795c147cf0f32af844cff"
+}
